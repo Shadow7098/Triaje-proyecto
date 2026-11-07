@@ -1,0 +1,8 @@
+# Credenciales: nunca se suben
+.env
+.streamlit/secrets.toml
+
+# Entorno virtual y temporales de Python
+venv/
+__pycache__/
+*.pyc
